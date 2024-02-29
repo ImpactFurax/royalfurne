@@ -16,5 +16,13 @@ export const Slides = [
 export const AboutBlocks = [
   { image: '/assets/images/about1.jpg', title: "Lorem ?", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a lacus ut tellus rhoncus fringilla sit amet sit amet neque. Aliquam facilisis sed risus et fringilla. Sed diam dolor, consectetur nec turpis ut, semper luctus orci. Phasellus bibendum consectetur leo, sit amet pharetra dolor ornare non. Mauris nec turpis ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a lacus ut tellus rhoncus fringilla sit amet sit amet neque. Aliquam facilisis sed risus et fringilla. Sed diam dolor, consectetur nec turpis ut, semper luctus orci. Phasellus bibendum consectetur leo, sit amet pharetra dolor ornare non. Mauris nec turpis ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a lacus ut tellus rhoncus fringilla sit amet sit amet neque."},
   { image: '/assets/images/about2.jpg', title: "Lorem ?", text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a lacus ut tellus rhoncus fringilla sit amet sit amet neque. Aliquam facilisis sed risus et fringilla. Sed diam dolor, consectetur nec turpis ut, semper luctus orci. Phasellus bibendum consectetur leo, sit amet pharetra dolor ornare non. Mauris nec turpis ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a lacus ut tellus rhoncus fringilla sit amet sit amet neque. Aliquam facilisis sed risus et fringilla. Sed diam dolor, consectetur nec turpis ut, semper luctus orci. Phasellus bibendum consectetur leo, sit amet pharetra dolor ornare non. Mauris nec turpis ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean a lacus ut tellus rhoncus fringilla sit amet sit amet neque."},
-]
+];
 
+
+export const SlidesCatalog = [
+  { url: '/assets/images/catalog1.jpg', title: 'Chambres' },
+  { url: '/assets/images/catalog2.jpg', title: 'Salons' },
+  { url: '/assets/images/catalog3.jpg', title: 'Salle de bains' },
+  { url: '/assets/images/catalog4.jpg', title: 'Cuisines' },
+  { url: '/assets/images/catalog5.jpg', title: 'Toilettes' },
+]
